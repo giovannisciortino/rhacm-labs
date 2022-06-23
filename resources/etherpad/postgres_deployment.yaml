@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: postgresql
   labels:
-    giovanni: "true"
+    giovanni: "false"
 
 spec:
   replicas: 1
